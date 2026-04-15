@@ -74,30 +74,37 @@
     "accentColorName": "red"
   },
   {
-    "id": "egypt",
-    "name": "Ancient Egypt",
-    "category": "History",
-    "summary": "Ancient Egypt was one of the world's great early civilizations. It grew along the Nile River and is famous for pyramids, pharaohs, temples, and hieroglyphic writing. The Nile helped people farm, travel, trade, and build cities for thousands of years.",
-    "imageName": "egypt",
-    "imageURL": null,
-    "relatedIDs": ["pyramid", "rome", "earth"],
-    "accentColorName": "yellow"
+  "id": "egypt",
+  "name": "Ancient Egypt",
+  "sourceTitle": "Ancient Egypt",
+  "category": "History",
+  "subcategory": "Ancient Civilizations",
+  "summary": "Ancient Egypt was one of the world's great early civilizations. It grew along the Nile River and is famous for pyramids, pharaohs, temples, and hieroglyphic writing. The Nile helped people farm, travel, trade, and build cities for thousands of years.",
+  "imageName": "egypt",
+  "imageURL": null,
+  "relatedIDs": ["pyramid", "rome", "earth"],
+  "accentColorName": "yellow",
+  "isEnabled": true,
+  "isSafe": true
   },
-  {
-    "id": "whale",
-    "name": "Whale",
-    "sourceTitle": "Whale",
-    "category": "Animals",
-    "summary": "Whales are large marine mammals that live in oceans around the world. Some whales are among the biggest animals that have ever lived. They breathe air through blowholes, communicate with sounds, and travel long distances through the sea. Some whales eat tiny drifting animals, while others hunt fish or squid.",
-    "imageName": "whale",
-    "imageURL": "https://upload.wikimedia.org/wikipedia/commons/e/e2/Southern_right_whale.jpg",
-    "galleryImageURLs": [
-      "https://upload.wikimedia.org/wikipedia/commons/e/e2/Southern_right_whale.jpg",
-      "https://upload.wikimedia.org/wikipedia/commons/e/e7/Humpback_whale_with_her_calf.jpg",
-      "https://upload.wikimedia.org/wikipedia/commons/6/6a/Humpback_whale_jumping.jpg"
-    ],
-    "relatedIDs": ["elephant", "ocean", "earth"],
-    "accentColorName": "blue"
+ {
+  "id": "whale",
+  "name": "Whale",
+  "sourceTitle": "Whale",
+  "category": "Animals",
+  "subcategory": "Mammals",
+  "summary": "Whales are large marine mammals that live in oceans around the world. Some whales are among the biggest animals that have ever lived. They breathe air through blowholes, communicate with sounds, and travel long distances through the sea. Some whales eat tiny drifting animals, while others hunt fish or squid.",
+  "imageName": "whale",
+  "imageURL": "https://upload.wikimedia.org/wikipedia/commons/e/e2/Southern_right_whale.jpg",
+  "galleryImageURLs": [
+    "https://upload.wikimedia.org/wikipedia/commons/e/e2/Southern_right_whale.jpg",
+    "https://upload.wikimedia.org/wikipedia/commons/e/e7/Humpback_whale_with_her_calf.jpg",
+    "https://upload.wikimedia.org/wikipedia/commons/6/6a/Humpback_whale_jumping.jpg"
+  ],
+  "relatedIDs": ["elephant", "ocean", "earth"],
+  "accentColorName": "blue",
+  "isEnabled": true,
+  "isSafe": true
   },
   {
     "id": "saturn",
