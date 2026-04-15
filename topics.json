@@ -5,7 +5,7 @@
     "category": "Animals",
     "summary": "Lions are large wild cats that live mostly in Africa. They are known for their strength, loud roar, and family groups called prides. Lions are meat-eaters and often work together to hunt. Male lions usually have thick manes, while females do most of the hunting. Lions spend much of the day resting and become more active in the cooler hours.",
     "imageName": "lion",
-    "relatedIDs": ["tiger", "elephant", "savanna"],
+    "relatedIDs": ["tiger", "elephant", "whale"],
     "accentColorName": "gold"
   },
   {
@@ -14,7 +14,7 @@
     "category": "Animals",
     "summary": "Tigers are powerful striped cats that live in parts of Asia. They usually hunt alone and are excellent swimmers. Every tiger has a different stripe pattern, a bit like a fingerprint. Tigers are among the largest cats in the world and are built for stealth, patience, and sudden bursts of power.",
     "imageName": "tiger",
-    "relatedIDs": ["lion", "jungle", "bear"],
+    "relatedIDs": ["lion", "panda", "rainforest"],
     "accentColorName": "orange"
   },
   {
@@ -32,7 +32,7 @@
     "category": "Space",
     "summary": "The Moon is Earth's natural satellite. It travels around our planet and helps affect the tides in the oceans. The Moon shines because it reflects light from the Sun. Its surface is covered in dust, rocks, and craters, and people first walked on the Moon in 1969.",
     "imageName": "moon",
-    "relatedIDs": ["earth", "mars", "stars"],
+    "relatedIDs": ["earth", "mars", "saturn"],
     "accentColorName": "indigo"
   },
   {
@@ -59,7 +59,7 @@
     "category": "Science",
     "summary": "A volcano is an opening in Earth's crust where melted rock, ash, and gas can escape. Some volcanoes erupt dramatically, while others stay quiet for long periods. Volcanoes help shape land, build mountains, and sometimes even create new islands.",
     "imageName": "volcano",
-    "relatedIDs": ["earthquake", "mars", "mountain"],
+    "relatedIDs": ["mars", "earth", "dinosaur"],
     "accentColorName": "red"
   },
   {
@@ -68,7 +68,7 @@
     "category": "History",
     "summary": "Ancient Egypt was one of the world's great early civilizations. It grew along the Nile River and is famous for pyramids, pharaohs, temples, and hieroglyphic writing. The Nile helped people farm, travel, trade, and build cities for thousands of years.",
     "imageName": "egypt",
-    "relatedIDs": ["pyramid", "rome", "mummy"],
+    "relatedIDs": ["pyramid", "rome", "earth"],
     "accentColorName": "yellow"
   },
   {
@@ -95,7 +95,7 @@
     "category": "Animals",
     "summary": "Sharks are fish that have lived in the oceans for hundreds of millions of years. They have skeletons made of cartilage instead of bone, and many are skilled hunters with powerful senses. Some sharks are huge, while others are quite small. Not all sharks are dangerous to people.",
     "imageName": "shark",
-    "relatedIDs": ["whale", "earth", "moon"],
+    "relatedIDs": ["whale", "ocean", "earth"],
     "accentColorName": "blue"
   },
   {
