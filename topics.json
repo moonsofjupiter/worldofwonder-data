@@ -79,5 +79,79 @@
     "imageName": "whale",
     "relatedIDs": ["elephant", "ocean", "earth"],
     "accentColorName": "blue"
+  },
+  [
+  {
+    "id": "saturn",
+    "name": "Saturn",
+    "category": "Space",
+    "summary": "Saturn is a giant planet famous for its bright rings. It is made mostly of gas and is much bigger than Earth. Saturn has many moons, strong winds, and a beautiful system of ice and rock particles circling around it. It is the second largest planet in our Solar System.",
+    "imageName": "saturn",
+    "relatedIDs": ["moon", "mars", "earth"],
+    "accentColorName": "yellow"
+  },
+  {
+    "id": "shark",
+    "name": "Shark",
+    "category": "Animals",
+    "summary": "Sharks are fish that have lived in the oceans for hundreds of millions of years. They have skeletons made of cartilage instead of bone, and many are skilled hunters with powerful senses. Some sharks are huge, while others are quite small. Not all sharks are dangerous to people.",
+    "imageName": "shark",
+    "relatedIDs": ["whale", "earth", "moon"],
+    "accentColorName": "blue"
+  },
+  {
+    "id": "panda",
+    "name": "Panda",
+    "category": "Animals",
+    "summary": "Pandas are large bears known for their black-and-white fur. They live mainly in mountain forests in China and spend much of their time eating bamboo. Pandas are strong climbers, good swimmers, and usually live alone. Their calm appearance makes them one of the most recognizable animals in the world.",
+    "imageName": "panda",
+    "relatedIDs": ["tiger", "elephant", "earth"],
+    "accentColorName": "gray"
+  },
+  {
+    "id": "rome",
+    "name": "Ancient Rome",
+    "category": "History",
+    "summary": "Ancient Rome began as a small city and grew into one of the most powerful civilizations in history. It is known for roads, armies, laws, engineering, and huge buildings such as amphitheaters and aqueducts. Roman ideas influenced many later societies and still shape the modern world.",
+    "imageName": "rome",
+    "relatedIDs": ["egypt", "lion", "earth"],
+    "accentColorName": "red"
+  },
+  {
+    "id": "pyramid",
+    "name": "Pyramid",
+    "category": "History",
+    "summary": "A pyramid is a large stone structure with sloping sides that meet near the top. The most famous pyramids were built in ancient Egypt as tombs for pharaohs. They were built with remarkable skill and planning, and they still stand thousands of years later.",
+    "imageName": "pyramid",
+    "relatedIDs": ["egypt", "rome", "earth"],
+    "accentColorName": "yellow"
+  },
+  {
+    "id": "ocean",
+    "name": "Ocean",
+    "category": "Science",
+    "summary": "The ocean covers most of Earth's surface and holds most of the planet's water. It helps control climate, supports countless forms of life, and shapes coastlines through waves and currents. Oceans are deep, dynamic, and still contain many mysteries that scientists are exploring.",
+    "imageName": "ocean",
+    "relatedIDs": ["earth", "whale", "shark"],
+    "accentColorName": "blue"
+  },
+  {
+    "id": "rainforest",
+    "name": "Rainforest",
+    "category": "Science",
+    "summary": "A rainforest is a dense forest that receives a lot of rain each year. Rainforests are home to an enormous variety of plants, insects, birds, and mammals. They help produce oxygen, store carbon, and support delicate ecosystems filled with life.",
+    "imageName": "rainforest",
+    "relatedIDs": ["tiger", "panda", "earth"],
+    "accentColorName": "green"
+  },
+  {
+    "id": "dinosaur",
+    "name": "Dinosaur",
+    "category": "Science",
+    "summary": "Dinosaurs were a large group of reptiles that lived on Earth millions of years ago. Some were small and fast, while others were enormous plant-eaters or powerful hunters. Scientists learn about dinosaurs from fossils, footprints, and ancient rocks. Birds are now understood to be close relatives of some dinosaurs.",
+    "imageName": "dinosaur",
+    "relatedIDs": ["volcano", "earth", "moon"],
+    "accentColorName": "green"
   }
+]
 ]
