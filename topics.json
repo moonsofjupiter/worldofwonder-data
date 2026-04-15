@@ -5,6 +5,7 @@
     "category": "Animals",
     "summary": "Lions are large wild cats that live mostly in Africa. They are known for their strength, loud roar, and family groups called prides. Lions are meat-eaters and often work together to hunt. Male lions usually have thick manes, while females do most of the hunting. Lions spend much of the day resting and become more active in the cooler hours.",
     "imageName": "lion",
+    "imageURL": "https://upload.wikimedia.org/wikipedia/commons/e/e7/Lion%28parRickBayok%29.jpg",
     "relatedIDs": ["tiger", "elephant", "whale"],
     "accentColorName": "gold"
   },
