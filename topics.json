@@ -85,7 +85,7 @@
     "category": "Animals",
     "summary": "Whales are large marine mammals that live in oceans around the world. Some whales are among the biggest animals that have ever lived. They breathe air through blowholes, communicate with sounds, and travel long distances through the sea. Some whales eat tiny drifting animals, while others hunt fish or squid.",
     "imageName": "whale",
-    "imageURL": null,
+    "imageURL": "https://upload.wikimedia.org/wikipedia/commons/e/e2/Southern_right_whale.jpg",
     "relatedIDs": ["elephant", "ocean", "earth"],
     "accentColorName": "blue"
   },
