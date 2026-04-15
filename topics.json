@@ -15,6 +15,7 @@
     "category": "Animals",
     "summary": "Tigers are powerful striped cats that live in parts of Asia. They usually hunt alone and are excellent swimmers. Every tiger has a different stripe pattern, a bit like a fingerprint. Tigers are among the largest cats in the world and are built for stealth, patience, and sudden bursts of power.",
     "imageName": "tiger",
+    "imageURL": null,
     "relatedIDs": ["lion", "panda", "rainforest"],
     "accentColorName": "orange"
   },
@@ -24,7 +25,8 @@
     "category": "Animals",
     "summary": "Elephants are the largest land animals on Earth. They use their trunks to breathe, smell, grab food, and spray water. Elephants are intelligent, social, and live in family groups. They are known for strong memories, careful communication, and caring behavior toward one another.",
     "imageName": "elephant",
-    "relatedIDs": ["lion", "savanna", "whale"],
+    "imageURL": null,
+    "relatedIDs": ["lion", "panda", "whale"],
     "accentColorName": "gray"
   },
   {
@@ -33,6 +35,7 @@
     "category": "Space",
     "summary": "The Moon is Earth's natural satellite. It travels around our planet and helps affect the tides in the oceans. The Moon shines because it reflects light from the Sun. Its surface is covered in dust, rocks, and craters, and people first walked on the Moon in 1969.",
     "imageName": "moon",
+    "imageURL": null,
     "relatedIDs": ["earth", "mars", "saturn"],
     "accentColorName": "indigo"
   },
@@ -42,6 +45,7 @@
     "category": "Space",
     "summary": "Mars is the fourth planet from the Sun and is often called the red planet because of its rusty color. It has giant volcanoes, deep valleys, polar ice caps, and seasons like Earth. Scientists study Mars closely to learn whether it may once have supported life.",
     "imageName": "mars",
+    "imageURL": null,
     "relatedIDs": ["moon", "earth", "volcano"],
     "accentColorName": "red"
   },
@@ -51,6 +55,7 @@
     "category": "Space",
     "summary": "Earth is the planet we live on. It has liquid water, an atmosphere, and a huge variety of living things. Earth travels around the Sun once each year and spins once each day. So far, it is the only known planet where life definitely exists.",
     "imageName": "earth",
+    "imageURL": null,
     "relatedIDs": ["moon", "mars", "ocean"],
     "accentColorName": "blue"
   },
@@ -60,6 +65,7 @@
     "category": "Science",
     "summary": "A volcano is an opening in Earth's crust where melted rock, ash, and gas can escape. Some volcanoes erupt dramatically, while others stay quiet for long periods. Volcanoes help shape land, build mountains, and sometimes even create new islands.",
     "imageName": "volcano",
+    "imageURL": null,
     "relatedIDs": ["mars", "earth", "dinosaur"],
     "accentColorName": "red"
   },
@@ -69,6 +75,7 @@
     "category": "History",
     "summary": "Ancient Egypt was one of the world's great early civilizations. It grew along the Nile River and is famous for pyramids, pharaohs, temples, and hieroglyphic writing. The Nile helped people farm, travel, trade, and build cities for thousands of years.",
     "imageName": "egypt",
+    "imageURL": null,
     "relatedIDs": ["pyramid", "rome", "earth"],
     "accentColorName": "yellow"
   },
@@ -78,6 +85,7 @@
     "category": "Animals",
     "summary": "Whales are large marine mammals that live in oceans around the world. Some whales are among the biggest animals that have ever lived. They breathe air through blowholes, communicate with sounds, and travel long distances through the sea. Some whales eat tiny drifting animals, while others hunt fish or squid.",
     "imageName": "whale",
+    "imageURL": null,
     "relatedIDs": ["elephant", "ocean", "earth"],
     "accentColorName": "blue"
   },
@@ -87,6 +95,7 @@
     "category": "Space",
     "summary": "Saturn is a giant planet famous for its bright rings. It is made mostly of gas and is much bigger than Earth. Saturn has many moons, strong winds, and a beautiful system of ice and rock particles circling around it. It is the second largest planet in our Solar System.",
     "imageName": "saturn",
+    "imageURL": null,
     "relatedIDs": ["moon", "mars", "earth"],
     "accentColorName": "yellow"
   },
@@ -96,6 +105,7 @@
     "category": "Animals",
     "summary": "Sharks are fish that have lived in the oceans for hundreds of millions of years. They have skeletons made of cartilage instead of bone, and many are skilled hunters with powerful senses. Some sharks are huge, while others are quite small. Not all sharks are dangerous to people.",
     "imageName": "shark",
+    "imageURL": null,
     "relatedIDs": ["whale", "ocean", "earth"],
     "accentColorName": "blue"
   },
@@ -105,6 +115,7 @@
     "category": "Animals",
     "summary": "Pandas are large bears known for their black-and-white fur. They live mainly in mountain forests in China and spend much of their time eating bamboo. Pandas are strong climbers, good swimmers, and usually live alone. Their calm appearance makes them one of the most recognizable animals in the world.",
     "imageName": "panda",
+    "imageURL": null,
     "relatedIDs": ["tiger", "elephant", "earth"],
     "accentColorName": "gray"
   },
@@ -114,6 +125,7 @@
     "category": "History",
     "summary": "Ancient Rome began as a small city and grew into one of the most powerful civilizations in history. It is known for roads, armies, laws, engineering, and huge buildings such as amphitheaters and aqueducts. Roman ideas influenced many later societies and still shape the modern world.",
     "imageName": "rome",
+    "imageURL": null,
     "relatedIDs": ["egypt", "lion", "earth"],
     "accentColorName": "red"
   },
@@ -123,6 +135,7 @@
     "category": "History",
     "summary": "A pyramid is a large stone structure with sloping sides that meet near the top. The most famous pyramids were built in ancient Egypt as tombs for pharaohs. They were built with remarkable skill and planning, and they still stand thousands of years later.",
     "imageName": "pyramid",
+    "imageURL": null,
     "relatedIDs": ["egypt", "rome", "earth"],
     "accentColorName": "yellow"
   },
@@ -132,6 +145,7 @@
     "category": "Science",
     "summary": "The ocean covers most of Earth's surface and holds most of the planet's water. It helps control climate, supports countless forms of life, and shapes coastlines through waves and currents. Oceans are deep, dynamic, and still contain many mysteries that scientists are exploring.",
     "imageName": "ocean",
+    "imageURL": null,
     "relatedIDs": ["earth", "whale", "shark"],
     "accentColorName": "blue"
   },
@@ -141,6 +155,7 @@
     "category": "Science",
     "summary": "A rainforest is a dense forest that receives a lot of rain each year. Rainforests are home to an enormous variety of plants, insects, birds, and mammals. They help produce oxygen, store carbon, and support delicate ecosystems filled with life.",
     "imageName": "rainforest",
+    "imageURL": null,
     "relatedIDs": ["tiger", "panda", "earth"],
     "accentColorName": "green"
   },
@@ -150,6 +165,7 @@
     "category": "Science",
     "summary": "Dinosaurs were a large group of reptiles that lived on Earth millions of years ago. Some were small and fast, while others were enormous plant-eaters or powerful hunters. Scientists learn about dinosaurs from fossils, footprints, and ancient rocks. Birds are now understood to be close relatives of some dinosaurs.",
     "imageName": "dinosaur",
+    "imageURL": null,
     "relatedIDs": ["volcano", "earth", "moon"],
     "accentColorName": "green"
   }
